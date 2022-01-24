@@ -1,12 +1,12 @@
 ## HI! It's me, Gabriel!
-<img align="right" width="170em" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/>
+<img align="right" width="250px" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/>
   
 <!-- Git Stauts -->
 <div>
   <div style="display: inline_block">                                       
     <a href="https://github.com/vianaz" target="_blank">                              
-    <img width ="280em" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img width ="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&langs_count=7&theme=dracula"/>
+    <img width ="400px" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width ="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&langs_count=7&theme=dracula"/>
     </a>
 
   </div>
