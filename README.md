@@ -1,18 +1,18 @@
 ## ALOU! eu sou o Gabriel Viana, apenas um simples desenvolvedor web!
-  <div style="background-color: white">
-  
-  </div>
+<img align="right" width="200em" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/>
   
 <!-- Git Stauts -->
 <div>
   <div style="display: inline_block">                                       
     <a href="https://github.com/vianaz" target="_blank">                              
-    <img width ="430em" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img width ="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&langs_count=7&theme=dracula"/>
+    <img width ="335em" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width ="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&langs_count=7&theme=dracula"/>
     </a>
 
   </div>
-
+  
+  
+  
 
 
 
@@ -22,7 +22,7 @@
     <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right"width="180em" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false">
+    
   </div>
 </div>
  
