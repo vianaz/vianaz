@@ -1,25 +1,31 @@
 ## ALOU! eu sou o Gabriel Viana, apenas um simples desenvolvedor web!
+  <div style="background-color: white">
+  <img width="150em" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false">
+  </div>
+  
 <!-- Git Stauts -->
-<div align="center">                                       
-  <a href="https://github.com/vianaz" target="_blank">                              
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+<div>
+  <div style="display: inline_block">                                       
+    <a href="https://github.com/vianaz" target="_blank">                              
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+
+  </div>
+
+
+
+
+  <!-- Dev Icons   -->
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
 </div>
-
-
-
-
-<!-- Dev Icons   -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false">
-</div>
-
-  ##
+ 
+ ##
   
 <!-- Social Media  -->
 <div> 
