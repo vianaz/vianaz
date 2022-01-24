@@ -5,8 +5,8 @@
 <div>
   <div style="display: inline_block">                                       
     <a href="https://github.com/vianaz" target="_blank">                              
-    <img width ="400px" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img width ="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&langs_count=7&theme=dracula"/>
+    <img width ="400px" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=radical"/>
+    <img width ="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&show_icons=true&theme=radical"/>
     </a>
 
   </div>
