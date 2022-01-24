@@ -1,5 +1,5 @@
 ## ALOU! eu sou o Gabriel Viana, apenas um simples desenvolvedor web!
-<img align="right" width="200em" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/>
+<img align="right" width="170em" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/>
   
 <!-- Git Stauts -->
 <div>
