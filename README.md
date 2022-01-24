@@ -1,7 +1,7 @@
 ## ALOU! eu sou o Gabriel Viana, apenas um simples desenvolvedor web!
 <!-- Git Stauts -->
 <div align="center">                                       
-  <a href="#" target="_blank">                              
+  <a href="https://github.com/vianaz" target="_blank">                              
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&langs_count=7&theme=dracula"/>
   </a>
