@@ -1,7 +1,7 @@
 ## HI! It's me, Gabriel!
 <img align="right" width="220px" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/>
   
-<!-- Git Stauts -->
+<!-- Git Stats -->
 <div>
   <div style="display: inline_block">                                       
     <a href="https://github.com/vianaz" target="_blank">                              
@@ -10,11 +10,6 @@
     </a>
 
   </div>
-  
-  
-  
-
-
 
   <!-- Dev Icons   -->
   <div style="display: inline_block"><br>
