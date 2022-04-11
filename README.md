@@ -1,33 +1,31 @@
 ## HI! It's me, Gabriel!
-<img align="right" width="220px" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/>
-  
-<!-- Git Stats -->
+
+<h3>👾 ABOUT ME </h3>
+<ul>
+  <li> 💻 Full Stack Web Development Student at <a href="https://www.driven.com.br/">Driven Education</a> </li>
+  <li> 🎓 Full-time Student </li>
+  <li> 🎸 Musician </li>
+  <li> 🏃 Runner </li>
+  <li> 📚 Now reading "Harry Potter e o Cálice de Fogo" </li>
+</ul>
+
+## Github Statistics
+
+<img width ="400px" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=radical"/>
+<img width ="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&show_icons=true&theme=radical"/>
+
+<img align="right" width="210px" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/>
+
+##
+
 <div>
-  <div style="display: flex_block">                                       
-    <a href="https://github.com/vianaz" target="_blank">                              
-    <img width ="400px" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=radical"/>
-    <img width ="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&show_icons=true&theme=radical"/>
-    </a>
-
-  </div>
-
-  <!-- Dev Icons   -->
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    
-  </div>
-</div>
- 
- ##
-  
-<!-- Social Media  -->
-<div> 
-  <a href="mailto:viana_gab2001@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vianazaum/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vianazaum/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@vianaz" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
 </div>
 
