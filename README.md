@@ -13,11 +13,16 @@
 
 <img width ="400px" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=radical"/>
 <img width ="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&show_icons=true&theme=radical"/>
-
 <img align="right" width="210px" alt="Gabs-Python" src="https://spotify-github-profile.vercel.app/api/view?uid=k4sufnekhbjoxsp7yuth27yrx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/>
 
-##
-
+## Social
+<div>
+  <a href="https://www.instagram.com/vianazaum/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="50px" /><a/>
+  <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649682026~hmac=f0e13b8a35cbadb55063268a7ce27e58" width="50px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="50px" />
+</div>
+  
+## Skills
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
