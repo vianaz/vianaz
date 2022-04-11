@@ -3,7 +3,7 @@
   
 <!-- Git Stats -->
 <div>
-  <div style="display: inline_block">                                       
+  <div style="display: flex_block">                                       
     <a href="https://github.com/vianaz" target="_blank">                              
     <img width ="400px" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&theme=radical"/>
     <img width ="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&layout=compact&show_icons=true&theme=radical"/>
