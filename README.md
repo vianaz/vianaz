@@ -18,9 +18,7 @@
 ## Social
 <div>
   <a href="https://www.instagram.com/vianazaum/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="50px" /><a/>
-  <a href=""><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649682026~hmac=f0e13b8a35cbadb55063268a7ce27e58" width="50px" /></a>
-    <a href=""><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="50px" /></a>
-</div>
+  <a href="https://www.linkedin.com/notifications/"><img src="https://user-images.githubusercontent.com/97882083/166242009-82b6150a-5d51-494d-b4ce-1eef1d3886ff.png" width="50px" /></a>
   
 ## Skills
 <div>
@@ -34,5 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50px"/>
 </div>
 
