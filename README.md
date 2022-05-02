@@ -18,7 +18,7 @@
 ## Social
 <div>
   <a href="https://www.instagram.com/vianazaum/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="50px" /><a/>
-  <a href="https://www.linkedin.com/notifications/"><img src="https://user-images.githubusercontent.com/97882083/166242009-82b6150a-5d51-494d-b4ce-1eef1d3886ff.png" width="50px" /></a>
+  <a href="https://www.linkedin.com/notifications/" target="_blank"><img src="https://user-images.githubusercontent.com/97882083/166242009-82b6150a-5d51-494d-b4ce-1eef1d3886ff.png" width="50px" /></a>
   
 ## Skills
 <div>
