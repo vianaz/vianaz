@@ -1,4 +1,3 @@
-
 <h1 align="center">
     Ⓢ Ⓞ Ⓑ Ⓡ Ⓔ
 <div>
@@ -322,8 +321,8 @@
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vianaz&theme=tokyo-night&hide_border=true">
 <br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=vianaz&theme=tokyonight&hide_border=true">
+<img height="190px" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&custom_title=Gabriel Viana's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=vianaz&theme=tokyonight&hide_border=true">
 </div>
