@@ -18,18 +18,4 @@
   </li>
 </ul>
 </div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=vianaz&theme=tokyo-night&hide_border=true">
-<br><br>
-<img align="left" height="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaz&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=vianaz&show_icons=true&&theme=tokyonight&hide_border=true">
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=vianaz&theme=tokyonight&hide_border=true">
 </div>
